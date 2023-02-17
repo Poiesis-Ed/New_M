@@ -6,7 +6,7 @@ export default function Experience()
     
     return <>
 
-        <color args={ [ '#695b5b' ] } attach="background" />
+        <color args={ [ '#063970' ] } attach="background" />
 
         <Environment preset="city" />
         
@@ -32,7 +32,8 @@ export default function Experience()
                     object={ computer.scene }
                     position-y={ - 0.2 }
                     scale={ 0.01}
-                    // rotation-x={ 0.13 }
+                     rotation-x={ 0.13 }
+                    rotation-y={ -0.5 }
                 >
                     <Html
                         transform

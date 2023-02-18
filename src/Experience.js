@@ -43,7 +43,7 @@ export default function Experience()
                         rotation-x={ - 0.356 }
                         scale={ [80,80,1]}
                     >
-                        <iframe src="https://m.poiesis.education" />
+                        <iframe src="https://m2.poiesis.education" />
                     </Html>
                 </primitive>
 
